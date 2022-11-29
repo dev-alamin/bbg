@@ -5,8 +5,8 @@
  * Plugin URI:  
  * Description: This is the Benebear Extension Plugin.
  * Version:     1.0
- * Author:      245TECH LLC
- * Author URI:  https://245.tech/
+ * Author:      Al Amin
+ * Author URI:  https://almn.me
  * Text Domain: bbgurcode
  * Domain Path: /languages
  * License:     GPL-2.0+
@@ -21,8 +21,6 @@
  *
  * Prefix:      BBG
  */
-
-use Automattic\WooCommerce\Blocks\BlockTypes\EmptyCartBlock;
 
 defined('ABSPATH') || die('No script kiddies please!');
 
